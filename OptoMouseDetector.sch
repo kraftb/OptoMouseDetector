@@ -176,7 +176,7 @@ device=photodiode
 T 43500 45200 5 10 1 1 90 0 1
 refdes=PD1
 T 43600 44900 5 10 0 0 0 0 1
-footprint=SIP2N
+footprint=SIP2
 }
 C 42200 45000 1 270 1 led-3.sym
 {
@@ -187,7 +187,7 @@ refdes=D1
 T 42100 45100 5 10 1 1 90 0 1
 comment=IR Photodiode
 T 42200 45000 5 10 0 0 0 0 1
-footprint=SIP2N
+footprint=SIP2
 }
 N 42400 45000 42400 44200 4
 N 42400 44200 44100 44200 4
@@ -344,7 +344,7 @@ refdes=CONN1
 T 48200 42750 5 10 0 0 180 0 1
 device=CONNECTOR_2
 T 48200 42550 5 10 0 0 180 0 1
-footprint=SIP2N
+footprint=SIP2
 }
 C 49000 43400 1 270 0 vss-1.sym
 C 49000 43800 1 270 0 vdd-1.sym
@@ -357,7 +357,7 @@ refdes=CONN2
 T 51500 47050 5 10 0 0 180 0 1
 device=CONNECTOR_2
 T 51500 46850 5 10 0 0 180 0 1
-footprint=SIP2N
+footprint=SIP2
 }
 N 51800 47500 51800 46500 4
 N 51800 47900 51800 48800 4
@@ -368,5 +368,5 @@ refdes=CONN3
 T 52800 47050 5 10 0 0 180 0 1
 device=CONNECTOR_2
 T 52800 46850 5 10 0 0 180 0 1
-footprint=SIP2N
+footprint=SIP2
 }
