@@ -12,6 +12,8 @@ clean:
 	rm -f *.cmd
 	rm -f *.net
 	rm -f *.new.pcb
+	rm -f *.pdf
+	rm -f *.ps
 
 $(objects).drc : $(objects).sch
 	gnetlist -g drc2 $(objects).sch -o $(objects).drc || exit
