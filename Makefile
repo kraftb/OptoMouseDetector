@@ -2,6 +2,7 @@
 objects=OptoMouseDetector
 
 all: $(objects).drc
+	gsch2pcb OptoMouseDetector.sch
 	
 
 clean:
