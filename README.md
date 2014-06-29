@@ -89,4 +89,3 @@ Mounting
 This is an easy one. There are 4 holes, one in each corner, which can get drilled to allow M3 screws pass through. You can
 use them to attach the board to spacers in a case, eventually use plastic washers to ensure insulation.
 
-
