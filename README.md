@@ -24,7 +24,7 @@ you can easily cut out the boards using a mini grinder.
 -----------------------
 Power supply
 -----------------------
-* The board operates from 12V DC. If the parts you have used are able to handle more you can even
+The board operates from 12V DC. If the parts you have used are able to handle more you can even
 attach 19V or more. Usually the BC5xx transistors can handle up to 60V so using more than 12V should not be a problem.
 If you build this yourself take care to exchange the IR-LED series resistor to an appropriate value of course. There
 is also no gurantee the circuit will work for higher voltages without some adaptions. I didn't test it with voltages
